@@ -437,6 +437,7 @@ void MainWindow::onVoiceNameChanged()
 		return;
 
 	fDoc->fCurrentVoice->fName = ui->voiceName->text();
+	fRebuildingList = false;
 	RebuildVoiceList();
 }
 
