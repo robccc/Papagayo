@@ -18,7 +18,7 @@ installer folder.
 What you've downloaded here is the source code to Papagayo. You can modify and build it
 as you wish, as long as you follow the terms in the License.txt file.
 
-Papagayo is currently built as a Qt application. To build it you need Qt 5.2.1 installed.
+Papagayo is currently built as a Qt application. To build it you need Qt 5.6.3 installed.
 I have built Papagayo for Windows and MacOS X, but I expect it will build for Linux as
 well. If anyone wants to try out a Linux build, go for it.
 
