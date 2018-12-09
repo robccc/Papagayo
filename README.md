@@ -3,7 +3,7 @@ Papagayo
 
 Lipsync tool for animators
 
-
+forked from  Mike Clifton   https://github.com/LostMoho/Papagayo
 
 
 Papagayo 2.0b1
@@ -30,5 +30,5 @@ Project button.
 
 
 
-forked from  Mike Clifton
-July 8, 2014
+
+
