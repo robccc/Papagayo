@@ -25,15 +25,10 @@ well. If anyone wants to try out a Linux build, go for it.
 To build Papagayo, open up the file Papagayo.pro in Qt Creator and press the Build
 Project button.
 
-Papagayo is currently in active development, so please check back for newer versions.
-
-The current version of Papagayo can always be found here:
-
-http://www.lostmarble.com/papagayo/index.shtml
 
 
 
 
 
-Mike Clifton
+forked from  Mike Clifton
 July 8, 2014
